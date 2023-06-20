@@ -1,0 +1,1 @@
+# dbot_gripper_moveit_config
