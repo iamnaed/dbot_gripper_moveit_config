@@ -1,0 +1,11 @@
+# Default initial positions for dbot_gripper_world's ros2_control fake system
+
+initial_positions:
+  j0_joint: 0
+  j1_joint: 0
+  j2_joint: 0
+  j3_joint: 0
+  j4_joint: 0
+  j5_joint: 0
+  slider0_joint: 0
+  slider1_joint: 0
